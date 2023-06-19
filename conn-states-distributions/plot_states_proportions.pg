@@ -1,0 +1,62 @@
+#!/usr/bin/gnuplot
+reset
+set terminal pngcairo dashed size 1500, 500 font "helvetica,20"
+set size 1, 1
+set output "STATES_PROPORTIONS_2023-01.png" 
+set rmargin screen 0.95
+
+set style fill solid
+
+set xdata time
+set timefmt "%Y-%m-%d"
+set xrange ["2023-01-01":"2023-01-31"]
+set yrange [0:100]
+set format x "%b %d"
+#set xtics "2022-01-01",2592000,"2023-02-08" rotate by 45 right
+set key top center
+
+set ylabel "Percentage of Total TCP Connections"
+
+#set key outside bottom horizontal
+#set mxtics 2
+#unset mytics
+#set grid ytics
+#set grid xtics
+#set grid mxtics
+set tics out nomirror
+#set xzeroaxis lt 1 lc rgb "black" lw 1
+#show xzeroaxis
+
+#OTH
+set style line 1 lc rgb "#747474"
+#S(1-3)
+set style line 2 lc rgb "#76cbf5"
+#SH(R)
+set style line 3 lc rgb "#055c9d"
+#SF
+set style line 4 lc rgb "#59981a"
+#REJ-RST
+set style line 5 lc rgb "#c99522"
+#RSTOS0
+set style line 6 lc rgb "#ffdb15"
+#S0
+set style line 7 lc rgb "#ba0f30"
+
+set label "S0" at "2023-01-31",40 font ",16"
+set label "RSTOS0" at "2023-01-31",72 font ",12"
+set label "REJ-RST" at "2023-01-31",78 font ",12"
+set label "SF" at "2023-01-31",82 font ",14"
+set label "SH(R)" at "2023-01-31",87 font ",14"
+set label "S(1-3)" at "2023-01-31",92 font ",12"
+set label "OTH" at "2023-01-31",97 font ",14"
+
+set datafile separator ','
+
+plot\
+'2023-01_states_proportions.csv' using 1:($16 + $19 + $22 + $26 + $29 + $30 + $31) with filledcurves x1 ls 1 title "OTH",\
+'2023-01_states_proportions.csv' using 1:($19 + $22 + $26 + $29 + $30 + $31) with filledcurves x1 ls 2 title "S(1-3)",\
+'2023-01_states_proportions.csv' using 1:($19 + $22 + $26 + $29 + $31) with filledcurves x1 ls 3 title "SH(R)",\
+'2023-01_states_proportions.csv' using 1:($19 + $22 + $26 + $29) with filledcurves x1 ls 4 title "SF",\
+'2023-01_states_proportions.csv' using 1:($19 + $22 + $29) with filledcurves x1 ls 5 title "REJ-RST",\
+'2023-01_states_proportions.csv' using 1:($19 + $22) with filledcurves x1 ls 6 title "RSTOS0",\
+'2023-01_states_proportions.csv' using 1:($22) with filledcurves x1 ls 7 title "S0"
