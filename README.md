@@ -1,2 +1,2 @@
-# phd-thesis
-Codes that I wrote for my PhD thesis.
+# Ph.D. Thesis
+Codes that I wrote for my Ph.D. thesis.
