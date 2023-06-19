@@ -1,0 +1,27 @@
+create table daily_report_dns (
+"ts" TIMESTAMP NOT NULL,
+"uid" varchar(20),
+"orig_h" varbinary(50),
+"orig_p" integer NOT NULL,
+"resp_h" varbinary(50),
+"resp_p" integer NOT NULL,
+"proto" varchar(10) NOT NULL,
+"trans_id" integer,
+"rtt" float,
+"query"	varchar(3000),
+"qclass" integer,
+"qclass_name" varchar(50),
+"qtype" integer,
+"qtype_name" varchar (50),
+"rcode" integer,
+"rcode_name" varchar(50),
+"aa" varchar(1),
+"tc" varchar(1),
+"rd" varchar(1),
+"ra" varchar(1),
+"z" integer,
+"answers" varchar(20000),
+"ttls" varchar(500),
+"rejected" varchar(1)
+)
+PARTITION BY EXTRACT(hour FROM ts);

@@ -1,0 +1,26 @@
+create table daily_report_ssh (
+"ts" TIMESTAMP NOT NULL,
+"uid" varchar(20),
+"orig_h" varbinary(50),
+"orig_p" integer NOT NULL,
+"resp_h" varbinary(50),
+"resp_p" integer NOT NULL,
+"version" integer NOT NULL,
+"auth_success" varchar(1),
+"auth_attempts" integer,
+"direction" varchar(10),
+"client" varchar(80),
+"server" varchar(80),
+"cipher_alg" varchar(20),
+"mac_alg" varchar(50),
+"compression_alg" varchar(50),
+"kex_alg" varchar(50),
+"host_key_alg" varchar(50),
+"host_key" varchar(60),
+"country" varchar(2),
+"state" varchar (2),
+"city" varchar (30),
+"latitude" varchar (15),
+"longitude" varchar (15)
+)
+PARTITION BY EXTRACT(hour FROM ts);
