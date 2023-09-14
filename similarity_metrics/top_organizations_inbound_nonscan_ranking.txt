@@ -1,0 +1,639 @@
+Days	2019-12-09	2019-12-10	2019-12-11	2019-12-12	2019-12-13	2019-12-14	2019-12-15
+SHAW																																																																																					1	1	0	0	0	0	0
+TELUS																																																																															0	0	1	0	0	0	0
+SHAW																																																																																													0	0	0	1	0	0	0
+SHAW																																																0	0	0	0	1	0	0
+SHAW																																																		0	0	0	0	0	1	0
+SHAW	0	0	0	0	0	0	1
+TELUS																																																																																				2	2	0	0	0	0	0
+SHAW																																																																																0	0	2	0	0	0	0
+TELUS																																																																																												0	0	0	2	0	0	0
+UCB																																																	0	0	0	0	2	0	0
+UCB																																																			0	0	0	0	0	2	0
+TELUS	0	0	0	0	0	0	2
+LIQUIDWEB																																																																																3	0	0	0	0	0	0
+UCB																																																																																						6	3	0	0	0	0	0
+UCB																																																																																	0	0	3	0	0	0	0
+UCB																																																																																														0	0	0	3	0	0	0
+TELUS																																															0	0	0	0	3	0	0
+TELUS																																																	0	0	0	0	0	3	0
+UCB	0	0	0	0	0	0	3
+Hetzner	Online	GmbH																																																																						4	30	0	0	0	0	0
+USASK																																																																																				0	4	0	0	0	0	0
+COGENT-174																																																																										0	0	4	0	0	0	0
+AHS																																																																																														0	0	0	4	0	0	0
+LIQUIDWEB																																											0	0	0	0	4	0	0
+GOOGLE																																																0	0	0	0	0	4	0
+LIQUIDWEB	0	0	0	0	0	0	4
+MICROSOFT																																																																																5	6	0	0	0	0	0
+Chinanet																																																																																	7	5	0	0	0	0	0
+LIQUIDWEB																																																																											0	0	5	0	0	0	0
+AMAZON																																																																																											0	0	0	5	0	0	0
+GOOGLE																																														0	0	0	0	5	0	0
+OVH	SAS																																															0	0	0	0	0	5	0
+PERFORMIVE	0	0	0	0	0	0	5
+MICROSOFT																																																																											0	0	6	0	0	0	0
+MICROSOFT																																																																																								0	0	0	6	0	0	0
+MICROSOFT																																											0	0	0	0	6	0	0
+MICROSOFT																																													0	0	0	0	0	6	0
+MICROSOFT	0	0	0	0	0	0	6
+PERFORMIVE																																																																															16	7	0	0	0	0	0
+Africa-on-Cloud-AS																																																																		0	0	7	0	0	0	0
+GOOGLE																																																																																											0	0	0	7	0	0	0
+OVH	SAS																																													0	0	0	0	7	0	0
+Globe	Telecoms																																								0	0	0	0	0	7	0
+NVIDIA	0	0	0	0	0	0	7
+GOOGLE																																																																																			8	9	0	0	0	0	0
+CHINA	UNICOM	China169	Backbone																																																											9	8	0	0	0	0	0
+OVH	SAS																																																																													0	0	8	0	0	0	0
+Chinanet																																																																																									0	0	0	8	0	0	0
+COMCAST-7922																																								0	0	0	0	8	0	0
+BACOM																																																	0	0	0	0	0	8	0
+GOOGLE	0	0	0	0	0	0	8
+ROGERS																																																																														0	0	9	0	0	0	0
+OVH	SAS																																																																																										0	0	0	9	0	0	0
+AMAZON																																														0	0	0	0	9	0	0
+CHINA	UNICOM	China169	Backbone																								0	0	0	0	0	9	0
+OVH	SAS	0	0	0	0	0	0	9
+AMAZON																																																																																			10	11	0	0	0	0	0
+OVH	SAS																																																																																		14	10	0	0	0	0	0
+COMCAST-7922																																																																								0	0	10	0	0	0	0
+Jisc	Services	Limited																																																																												0	0	0	10	0	0	0
+BACOM																																															0	0	0	0	10	0	0
+ROGERS																																																0	0	0	0	0	10	0
+COMCAST-7922	0	0	0	0	0	0	10
+BACOM																																																																																				11	18	0	0	0	0	0
+GOOGLE																																																																														0	0	11	0	0	0	0
+COMCAST-7922																																																																																					0	0	0	11	0	0	0
+ROGERS																																														0	0	0	0	11	0	0
+Taiwan	Academic	Network	(TANet)	Information	Center				0	0	0	0	0	11	0
+Chinanet	0	0	0	0	0	0	11
+COMCAST-7922																																																																													12	14	0	0	0	0	0
+APPLE																																																																																				21	12	0	0	0	0	0
+BACOM																																																																															0	0	12	0	0	0	0
+ROGERS																																																																																											0	0	0	12	0	0	0
+Chinanet																																												0	0	0	0	12	0	0
+Suniway	Group	of	Companies	Inc.																							0	0	0	0	0	12	0
+ROGERS	0	0	0	0	0	0	12
+ROGERS																																																																																			13	17	0	0	0	0	0
+OKSTATE																																																																																		0	13	0	0	0	0	0
+AMAZON																																																																														0	0	13	0	0	0	0
+BACOM																																																																																												0	0	0	13	0	0	0
+HURRICANE																																											0	0	0	0	13	0	0
+COMCAST-7922																																										0	0	0	0	0	13	0
+SFU-AS	0	0	0	0	0	0	13
+AHS																																																																																	0	0	14	0	0	0	0
+SunValley	New	Oriental																																																																											0	0	0	14	0	0	0
+Jisc	Services	Limited																															0	0	0	0	14	0	0
+AMAZON																																																0	0	0	0	0	14	0
+CHINA	UNICOM	China169	Backbone	0	0	0	0	0	0	14
+24SHELLS																																																																																	15	0	0	0	0	0	0
+AHS																																																																																						22	15	0	0	0	0	0
+HUAWEI	CLOUDS																																																																							0	0	15	0	0	0	0
+ISP/IXP	IN	CAMBODIA	WITH	THE	BEST	VERVICE	IN	THERE.																																														0	0	0	15	0	0	0
+UDELNET																																													0	0	0	0	15	0	0
+Chinanet																																														0	0	0	0	0	15	0
+i3D.net	B.V	0	0	0	0	0	0	15
+45.195.93.0																																																																														0	16	0	0	0	0	0
+HURRICANE																																																																											0	0	16	0	0	0	0
+PERFORMIVE																																																																																							0	0	0	16	0	0	0
+Rostelecom																																										0	0	0	0	16	0	0
+Telgua																																																0	0	0	0	0	16	0
+ATT-INTERNET4	0	0	0	0	0	0	16
+UUNET																																																																																				17	33	0	0	0	0	0
+45.195.93.0																																																																									0	0	17	0	0	0	0
+BHN-33363																																																																																								0	0	0	17	0	0	0
+AHS																																																	0	0	0	0	17	0	0
+Hetzner	Online	GmbH																																			0	0	0	0	0	17	0
+BACOM	0	0	0	0	0	0	17
+COLORADOSTATEUNIV																																																																								18	0	0	0	0	0	0
+PERFORMIVE																																																																										0	0	18	0	0	0	0
+FACEBOOK																																																																																									0	0	0	18	0	0	0
+PERFORMIVE																																										0	0	0	0	18	0	0
+UUNET																																																	0	0	0	0	0	18	0
+AMAZON	0	0	0	0	0	0	18
+Jisc	Services	Limited																																																																				19	62	0	0	0	0	0
+Virgin	Media	Limited																																																																					24	19	0	0	0	0	0
+Chinanet																																																																												0	0	19	0	0	0	0
+HURRICANE																																																																																								0	0	0	19	0	0	0
+COGENT-174																																										0	0	0	0	19	0	0
+CODE42																																																0	0	0	0	0	19	0
+UUNET	0	0	0	0	0	0	19
+FACEBOOK																																																																																	20	24	0	0	0	0	0
+SSC-299-25689																																																																												0	20	0	0	0	0	0
+M247	Ltd																																																																												0	0	20	0	0	0	0
+Datacamp	Limited																																																																																	0	0	0	20	0	0	0
+Datacamp	Limited																																				0	0	0	0	20	0	0
+10.90.65.0																																												0	0	0	0	0	20	0
+APPLE	0	0	0	0	0	0	20
+NTT	Communications	Corporation																																																											0	21	0	0	0	0	0
+LESNET																																																																														0	0	21	0	0	0	0
+M247	Ltd																																																																																									0	0	0	21	0	0	0
+Hetzner	Online	GmbH																																	0	0	0	0	21	0	0
+FACEBOOK																																														0	0	0	0	0	21	0
+58.82.250.0	0	0	0	0	0	0	21
+China	Telecom	(Group)																																																																				56	22	0	0	0	0	0
+CHINA	UNICOM	China169	Backbone																																																						0	0	22	0	0	0	0
+SASKTEL																																																																																										0	0	0	22	0	0	0
+HUAWEI	CLOUDS																																							0	0	0	0	22	0	0
+DIGITALOCEAN-ASN																																						0	0	0	0	0	22	0
+Xs4all	Internet	BV	0	0	0	0	0	0	22
+Hydra	Communications	Ltd																																																																	23	0	0	0	0	0	0
+CANET-ASN-4																																																																														0	23	0	0	0	0	0
+UVIC-AS																																																																													0	0	23	0	0	0	0
+CANET-ASN-4																																																																																						0	0	0	23	0	0	0
+FACEBOOK																																												0	0	0	0	23	0	0
+ATT-INTERNET4																																									0	0	0	0	0	23	0
+TWITCH	0	0	0	0	0	0	23
+APPLE																																																																															0	0	24	0	0	0	0
+Extreme	Broadband	-	Total	Broadband	Experience																																																			0	0	0	24	0	0	0
+SOFTLAYER																																											0	0	0	0	24	0	0
+PERFORMIVE																																												0	0	0	0	0	24	0
+Hetzner	Online	GmbH	0	0	0	0	0	0	24
+"Tencent	Building	Kejizhongyi	Avenue"																																																			25	55	0	0	0	0	0
+M247	Ltd																																																																																	68	25	0	0	0	0	0
+CANET-ASN-4																																																																									0	0	25	0	0	0	0
+EMERSON																																																																																										0	0	0	25	0	0	0
+China	Unicom	Beijing	Province	Network															0	0	0	0	25	0	0
+APPLE																																																	0	0	0	0	0	25	0
+Vodafone	GmbH	0	0	0	0	0	0	25
+Taiwan	Academic	Network	(TANet)	Information	Center																																							26	37	0	0	0	0	0
+CWIE																																																																																					0	26	0	0	0	0	0
+LeaseWeb	Netherlands	B.V.																																																											0	0	26	0	0	0	0
+"Tencent	Building	Kejizhongyi	Avenue"																																																											0	0	0	26	0	0	0
+Extreme	Broadband	-	Total	Broadband	Experience						0	0	0	0	26	0	0
+DataWeb	Global	Group	B.V.																													0	0	0	0	0	26	0
+Voxility	LLP	0	0	0	0	0	0	26
+Interhost	Communication	Solutions	Ltd.																																																			27	0	0	0	0	0	0
+DIGITALOCEAN-ASN																																																																									61	27	0	0	0	0	0
+UWO-AS																																																																														0	0	27	0	0	0	0
+Interhost	Communication	Solutions	Ltd.																																																											0	0	0	27	0	0	0
+APPLE																																															0	0	0	0	27	0	0
+Excitel	Broadband	Private	Limited																					0	0	0	0	0	27	0
+DataWeb	Global	Group	B.V.	0	0	0	0	0	0	27
+ST-BGP																																																																																			28	0	0	0	0	0	0
+AS-WHATBOX																																																																															0	28	0	0	0	0	0
+Virgin	Media	Limited																																																																0	0	28	0	0	0	0
+Hetzner	Online	GmbH																																																																														0	0	0	28	0	0	0
+TWIDC	Limited																																							0	0	0	0	28	0	0
+GTT	Communications	Inc.																															0	0	0	0	0	28	0
+ASN-GIGENET	0	0	0	0	0	0	28
+Deutsche	Telekom	AG																																																																						29	32	0	0	0	0	0
+marbis	GmbH																																																																														0	29	0	0	0	0	0
+KDDI	CORPORATION																																																																				0	0	29	0	0	0	0
+CHINA	UNICOM	China169	Backbone																																																																			0	0	0	29	0	0	0
+Telstra	Corporation	Ltd																													0	0	0	0	29	0	0
+LEASEWEB-USA-LAX-11																																			0	0	0	0	0	29	0
+FACEBOOK	0	0	0	0	0	0	29
+Ooredoo	Q.S.C.																																																																											30	59	0	0	0	0	0
+FACEBOOK																																																																												0	0	30	0	0	0	0
+DataWeb	Global	Group	B.V.																																																																								0	0	0	30	0	0	0
+ATT-INTERNET4																																							0	0	0	0	30	0	0
+MTS-ASN																																															0	0	0	0	0	30	0
+MTS-ASN	0	0	0	0	0	0	30
+Excitel	Broadband	Private	Limited																																																								31	0	0	0	0	0	0
+10.90.65.0																																																																															34	31	0	0	0	0	0
+Hetzner	Online	GmbH																																																																	0	0	31	0	0	0	0
+10.90.65.0																																																																																							0	0	0	31	0	0	0
+DataWeb	Global	Group	B.V.																											0	0	0	0	31	0	0
+CANET-ASN-4																																											0	0	0	0	0	31	0
+TEKSAVVY	0	0	0	0	0	0	31
+AS40676																																																																																		32	49	0	0	0	0	0
+10.90.65.0																																																																										0	0	32	0	0	0	0
+EONIX-COMMUNICATIONS-ASBLOCK-62904																																																															0	0	0	32	0	0	0
+2COM	Co	Ltd.																																								0	0	0	0	32	0	0
+NORTHWESTEL-INC																																							0	0	0	0	0	32	0
+"Tencent	Building	Kejizhongyi	Avenue"	0	0	0	0	0	0	32
+VALVE-CORPORATION																																																																								33	84	0	0	0	0	0
+Datacamp	Limited																																																																				0	0	33	0	0	0	0
+G-Core	Labs	S.A.																																																																																	0	0	0	33	0	0	0
+Taiwan	Academic	Network	(TANet)	Information	Center		0	0	0	0	33	0	0
+Telefonica	De	Espana																																		0	0	0	0	0	33	0
+LVLT-3549	0	0	0	0	0	0	33
+DataWeb	Global	Group	B.V.																																																																35	34	0	0	0	0	0
+China	Education	and	Research	Network	Center																																									0	0	34	0	0	0	0
+Telgua																																																																																											0	0	0	34	0	0	0
+PNAP-SE3																																												0	0	0	0	34	0	0
+"Tencent	Building	Kejizhongyi	Avenue"																0	0	0	0	0	34	0
+BHN-33363	0	0	0	0	0	0	34
+Agentia	de	Administrare	a	Retelei	Nationale	de	Informatica	pentru	Educatie	si	Cercetare		44	35	0	0	0	0	0
+i3D.net	B.V																																																																									0	0	35	0	0	0	0
+APPLE																																																																																												0	0	0	35	0	0	0
+10.90.65.0																																										0	0	0	0	35	0	0
+LVLT-3549																																													0	0	0	0	0	35	0
+NMAX	0	0	0	0	0	0	35
+Guangdong																																																																																36	0	0	0	0	0	0
+ATT-INTERNET4																																																																												41	36	0	0	0	0	0
+DataWeb	Global	Group	B.V.																																																											0	0	36	0	0	0	0
+DIGITALOCEAN-ASN																																																																																	0	0	0	36	0	0	0
+1&1	Versatel	Deutschland	GmbH																							0	0	0	0	36	0	0
+Free	SAS																																														0	0	0	0	0	36	0
+BARR-XPLR-ASN	0	0	0	0	0	0	36
+BHN-33363																																																																																37	53	0	0	0	0	0
+RISQ-AS																																																																													0	0	37	0	0	0	0
+LEASEWEB-USA-LAX-11																																																																														0	0	0	37	0	0	0
+i3D.net	B.V																																									0	0	0	0	37	0	0
+Rostelecom																																												0	0	0	0	0	37	0
+52.84.246.0	0	0	0	0	0	0	37
+Uninet	S.A.	de	C.V.																																																																						38	91	0	0	0	0	0
+i3D.net	B.V																																																																														48	38	0	0	0	0	0
+NWTEL																																																																															0	0	38	0	0	0	0
+NVIDIA																																																																																											0	0	0	38	0	0	0
+CHINA	UNICOM	China169	Backbone																						0	0	0	0	38	0	0
+Packet	Exchange	Limited																															0	0	0	0	0	38	0
+Reliance	Jio	Infocomm	Limited	0	0	0	0	0	0	38
+1&1	Versatel	Deutschland	GmbH																																																												39	0	0	0	0	0	0
+CHARTER-20115																																																																												82	39	0	0	0	0	0
+DIGITALOCEAN-ASN																																																																				0	0	39	0	0	0	0
+MTS-ASN																																																																																										0	0	0	39	0	0	0
+Interhost	Communication	Solutions	Ltd.														0	0	0	0	39	0	0
+BHN-33363																																													0	0	0	0	0	39	0
+ASN-CXA-ALL-CCI-22773-RDC	0	0	0	0	0	0	39
+Data	Communication	Business	Group																																																								40	46	0	0	0	0	0
+China	Education	and	Research	Network	Center																																														50	40	0	0	0	0	0
+Verein	zur	Foerderung	eines	Deutschen	Forschungsnetzes	e.V.																									0	0	40	0	0	0	0
+China	Unicom	Beijing	Province	Network																																																												0	0	0	40	0	0	0
+ANGKOR	DATA	COMMUNICATION																											0	0	0	0	40	0	0
+Viettel	Group																																									0	0	0	0	0	40	0
+AS40676	0	0	0	0	0	0	40
+LEASEWEB-USA-LAX-11																																																																						46	41	0	0	0	0	0
+BARR-XPLR-ASN																																																																							0	0	41	0	0	0	0
+Reliance	Jio	Infocomm	Limited																																																																				0	0	0	41	0	0	0
+Reliance	Jio	Infocomm	Limited																							0	0	0	0	41	0	0
+Virgin	Media	Limited																																		0	0	0	0	0	41	0
+British	Telecommunications	PLC	0	0	0	0	0	0	41
+NWTEL																																																																																				42	47	0	0	0	0	0
+BARR-XPLR-ASN																																																																												60	42	0	0	0	0	0
+NVIDIA																																																																														0	0	42	0	0	0	0
+CHARTER-20115																																																																																				0	0	0	42	0	0	0
+Globe	Telecoms																																						0	0	0	0	42	0	0
+"Teleguam	Holdings	LLC"																														0	0	0	0	0	42	0
+SOFTLAYER	0	0	0	0	0	0	42
+NVIDIA																																																																																			43	0	0	0	0	0	0
+VELOCITYNET-01																																																																											0	43	0	0	0	0	0
+My	Telecom	Group	Company	Limited																																																				0	0	43	0	0	0	0
+"WENZHOU	ZHEJIANG	Province	P.R.China."																																																									0	0	0	43	0	0	0
+"Tencent	Building	Kejizhongyi	Avenue"														0	0	0	0	43	0	0
+NMAX																																																		0	0	0	0	0	43	0
+10.90.65.0	0	0	0	0	0	0	43
+SW-ORG-AS																																																																																83	44	0	0	0	0	0
+Deutsche	Telekom	AG																																																																	0	0	44	0	0	0	0
+Virgin	Media	Limited																																																																													0	0	0	44	0	0	0
+BARR-XPLR-ASN																																							0	0	0	0	44	0	0
+Reliance	Jio	Infocomm	Limited																									0	0	0	0	0	44	0
+HURRICANE	0	0	0	0	0	0	44
+LVLT-3549																																																																																45	51	0	0	0	0	0
+HUAWEI	CLOUDS																																																																												0	45	0	0	0	0	0
+LVLT-3549																																																																											0	0	45	0	0	0	0
+BARR-XPLR-ASN																																																																																				0	0	0	45	0	0	0
+"BEE	UNION	(CAMBODIA)	TELECOM	CO.	LTD"													0	0	0	0	45	0	0
+SSASN2																																																0	0	0	0	0	45	0
+DIGITALOCEAN-ASN	0	0	0	0	0	0	45
+Jisc	Services	Limited																																																															0	0	46	0	0	0	0
+LeaseWeb	Netherlands	B.V.																																																																								0	0	0	46	0	0	0
+PRIMUS-AS6407																																							0	0	0	0	46	0	0
+SOFTLAYER																																													0	0	0	0	0	46	0
+Korea	Telecom	0	0	0	0	0	0	46
+Orange	Polska	Spolka	Akcyjna																																																													47	0	0	0	0	0	0
+SOFTLAYER																																																																											0	0	47	0	0	0	0
+LVLT-3549																																																																																								0	0	0	47	0	0	0
+TEKSAVVY																																												0	0	0	0	47	0	0
+U-ALBERTA																																													0	0	0	0	0	47	0
+China	Education	and	Research	Network	Center	0	0	0	0	0	0	47
+SOFTLAYER																																																																																62	48	0	0	0	0	0
+185.153.179.0																																																																							0	0	48	0	0	0	0
+U-ALBERTA																																																																																								0	0	0	48	0	0	0
+team.blue	Denmark	A/S																															0	0	0	0	48	0	0
+216.108.180.0																																									0	0	0	0	0	48	0
+Virgin	Media	Limited	0	0	0	0	0	0	48
+Sky	UK	Limited																																																																											49	0	0	0	0	0	0
+"Tencent	Building	Kejizhongyi	Avenue"																																														0	0	49	0	0	0	0
+ASN-CXA-ALL-CCI-22773-RDC																																																																								0	0	0	49	0	0	0
+MERIT-AS-14																																									0	0	0	0	49	0	0
+Datacamp	Limited																																						0	0	0	0	0	49	0
+Philippine	Long	Distance	Telephone	Company	0	0	0	0	0	0	49
+YANDEX	LLC																																																																															58	50	0	0	0	0	0
+Reliance	Jio	Infocomm	Limited																																																							0	0	50	0	0	0	0
+KPN	B.V.																																																																																									0	0	0	50	0	0	0
+LVLT-3549																																											0	0	0	0	50	0	0
+ASN-CXA-ALL-CCI-22773-RDC																													0	0	0	0	0	50	0
+NTT	Communications	Corporation	0	0	0	0	0	0	50
+UWATERLOO																																																																																51	0	0	0	0	0	0
+Tele	Danmark																																																																								0	0	51	0	0	0	0
+i3D.net	B.V																																																																																						0	0	0	51	0	0	0
+SASKTEL																																													0	0	0	0	51	0	0
+China	Unicom	Beijing	Province	Network																	0	0	0	0	0	51	0
+LEASEWEB-USA-SEA-10	0	0	0	0	0	0	51
+China	Mobile	communications	corporation																																																		52	0	0	0	0	0	0
+LESNET																																																																																			0	52	0	0	0	0	0
+CIPHERKEY																																																																											0	0	52	0	0	0	0
+UWATERLOO																																																																																								0	0	0	52	0	0	0
+DIGITALOCEAN-ASN																																				0	0	0	0	52	0	0
+TEKSAVVY																																														0	0	0	0	0	52	0
+CIKTELECOM-CABLE	0	0	0	0	0	0	52
+ESECUREDATA																																																																														53	0	0	0	0	0	0
+YANDEX	LLC																																																																										0	0	53	0	0	0	0
+NOVUS-3																																																																																										0	0	0	53	0	0	0
+CANET-ASN-4																																									0	0	0	0	53	0	0
+BARR-XPLR-ASN																																									0	0	0	0	0	53	0
+CANET-ASN-4	0	0	0	0	0	0	53
+Reliance	Jio	Infocomm	Limited																																																												54	56	0	0	0	0	0
+Internet	Initiative	Japan	Inc.																																																											0	54	0	0	0	0	0
+UUNET																																																																															0	0	54	0	0	0	0
+UUNET																																																																																												0	0	0	54	0	0	0
+CHARTER-20115																																							0	0	0	0	54	0	0
+VIDEOTRON																																													0	0	0	0	0	54	0
+CHINANET	0	0	0	0	0	0	54
+Vocus	Retail																																																																													55	0	0	0	0	0	0
+FRONTIER-FRTR																																																																							0	0	55	0	0	0	0
+Ooredoo	Q.S.C.																																																																																			0	0	0	55	0	0	0
+MYREPUBLIC	PTY	LTD																																		0	0	0	0	55	0	0
+Compania	Dominicana	de	Telefonos	S.	A.																0	0	0	0	0	55	0
+Packet	Exchange	Limited	0	0	0	0	0	0	55
+SASKTEL																																																																													0	0	56	0	0	0	0
+216.108.180.0																																																																																				0	0	0	56	0	0	0
+MTS-ASN																																													0	0	0	0	56	0	0
+YANDEX	LLC																																												0	0	0	0	0	56	0
+Active	Cloud	0	0	0	0	0	0	56
+COGECOWAVE																																																																															57	0	0	0	0	0	0
+PNAP-SE3																																																																																	0	57	0	0	0	0	0
+Interhost	Communication	Solutions	Ltd.																																														0	0	57	0	0	0	0
+"Bharti	Airtel	Ltd.	Telemedia	Services"																																																									0	0	0	57	0	0	0
+Mobile	Communication	Company	of	Iran	PLC												0	0	0	0	57	0	0
+LeaseWeb	Netherlands	B.V.																													0	0	0	0	0	57	0
+AMANAHA-NEW	0	0	0	0	0	0	57
+Telecom	Argentina	S.A.																																																																			0	58	0	0	0	0	0
+ATT-INTERNET4																																																																							0	0	58	0	0	0	0
+Bharti	Airtel	Ltd.	AS	for	GPRS	Service																																																											0	0	0	58	0	0	0
+Guangdong	Mobile	Communication	Co.Ltd.														0	0	0	0	58	0	0
+HURRICANE																																													0	0	0	0	0	58	0
+HUAWEI	CLOUDS	0	0	0	0	0	0	58
+TWC-20001-PACWEST																																																																								59	77	0	0	0	0	0
+Ooredoo	Q.S.C.																																																																						0	0	59	0	0	0	0
+CIKTELECOM-CABLE																																																																																	0	0	0	59	0	0	0
+AS40676																																													0	0	0	0	59	0	0
+CIPHERKEY																																													0	0	0	0	0	59	0
+NTT-COMMUNICATIONS-2914	0	0	0	0	0	0	59
+SASKTEL																																																																																		0	60	0	0	0	0	0
+U-ALBERTA																																																																											0	0	60	0	0	0	0
+ATT-INTERNET4																																																																																				0	0	0	60	0	0	0
+NORTHWESTEL-INC																																					0	0	0	0	60	0	0
+UWO-AS																																																0	0	0	0	0	60	0
+CHARTER-20115	0	0	0	0	0	0	60
+TWC-11351-NORTHEAST																																																																						0	61	0	0	0	0	0
+TPG	Telecom	Limited																																																																	0	0	61	0	0	0	0
+Iran	Telecommunication	Company	PJS																																																															0	0	0	61	0	0	0
+China	Education	and	Research	Network	Center									0	0	0	0	61	0	0
+JSC	ER-Telecom	Holding																																0	0	0	0	0	61	0
+TWC-20001-PACWEST	0	0	0	0	0	0	61
+BHN-33363																																																																											0	0	62	0	0	0	0
+Free	SAS																																																																																									0	0	0	62	0	0	0
+USASK																																															0	0	0	0	62	0	0
+TWC-20001-PACWEST																																					0	0	0	0	0	62	0
+Bharti	Airtel	Ltd.	AS	for	GPRS	Service	0	0	0	0	0	0	62
+TELEFONICA	BRASIL	S.A																																																																				63	0	0	0	0	0	0
+CIPHERKEY																																																																																0	63	0	0	0	0	0
+China	Telecom	(Group)																																																															0	0	63	0	0	0	0
+"TIME	dotCom	Berhad	No.	14	Jalan	Majistret	U1/26	Hicom	Glenmarie	Industrial	Park	40150	Shah	A"		0	0	0	63	0	0	0
+BHN-33363																																											0	0	0	0	63	0	0
+CHARTER-20115																																									0	0	0	0	0	63	0
+Iran	Telecommunication	Company	PJS	0	0	0	0	0	0	63
+GTT	Communications	Inc.																																																																		64	0	0	0	0	0	0
+Quadrant	Televentures	Limited																																																												0	64	0	0	0	0	0
+TEKSAVVY																																																																												0	0	64	0	0	0	0
+Uninet	S.A.	de	C.V.																																																																														0	0	0	64	0	0	0
+Telgua																																														0	0	0	0	64	0	0
+Quickline	AG																																										0	0	0	0	0	64	0
+AHS	0	0	0	0	0	0	64
+RIOT-NA1																																																																																	65	0	0	0	0	0	0
+JSIWMC																																																																																			0	65	0	0	0	0	0
+Free	SAS																																																																												0	0	65	0	0	0	0
+CHINANET																																																																																									0	0	0	65	0	0	0
+Virgin	Media	Limited																																0	0	0	0	65	0	0
+AHS																																																			0	0	0	0	0	65	0
+YANDEX	LLC	0	0	0	0	0	0	65
+China	Unicom	Shanghai	network																																																												66	0	0	0	0	0	0
+British	Telecommunications	PLC																																																											0	66	0	0	0	0	0
+China	Unicom	Beijing	Province	Network																																															0	0	66	0	0	0	0
+Korea	Telecom																																																																																				0	0	0	66	0	0	0
+Siportal	Srl																																								0	0	0	0	66	0	0
+Siportal	Srl																																										0	0	0	0	0	66	0
+Extreme	Broadband	-	Total	Broadband	Experience	0	0	0	0	0	0	66
+CHINANET																																																																																	67	71	0	0	0	0	0
+SAFARICOM-LIMITED																																																																								0	67	0	0	0	0	0
+Bharti	Airtel	Ltd.	AS	for	GPRS	Service																																														0	0	67	0	0	0	0
+CHSPSC-29766																																																																																					0	0	0	67	0	0	0
+CIPHERKEY																																											0	0	0	0	67	0	0
+Guangdong	Mobile	Communication	Co.Ltd.																0	0	0	0	0	67	0
+Online	S.a.s.	0	0	0	0	0	0	67
+"Bharti	Airtel	Ltd.	Telemedia	Services"																																																	88	68	0	0	0	0	0
+CHINANET																																																																												0	0	68	0	0	0	0
+China	Telecom	(Group)																																																																												0	0	0	68	0	0	0
+Excitel	Broadband	Private	Limited																			0	0	0	0	68	0	0
+Online	S.a.s.																																									0	0	0	0	0	68	0
+GTT	Communications	Inc.	0	0	0	0	0	0	68
+Mobile	Communication	Company	of	Iran	PLC																																																	69	0	0	0	0	0	0
+UVIC-AS																																																																																		0	69	0	0	0	0	0
+TWC-20001-PACWEST																																																																			0	0	69	0	0	0	0
+TWITCH																																																																																											0	0	0	69	0	0	0
+UTORONTO-AS																																									0	0	0	0	69	0	0
+SFR	SA																																																0	0	0	0	0	69	0
+Ooredoo	Q.S.C.	0	0	0	0	0	0	69
+Iran	Telecommunication	Company	PJS																																																							70	78	0	0	0	0	0
+185.153.179.0																																																																												0	70	0	0	0	0	0
+OrbitalNet	Ltd																																																																						0	0	70	0	0	0	0
+Fastweb																																																																																										0	0	0	70	0	0	0
+Yamagata	University																																	0	0	0	0	70	0	0
+ACCESS-SK																																													0	0	0	0	0	70	0
+ACRONIS-199	0	0	0	0	0	0	70
+TalkTalk																																																																																	71	0	0	0	0	0	0
+GTAA																																																																																0	0	71	0	0	0	0
+WOW																																																																																														0	0	0	71	0	0	0
+"WENZHOU	ZHEJIANG	Province	P.R.China."												0	0	0	0	71	0	0
+CIKTELECOM-CABLE																																						0	0	0	0	0	71	0
+Softbank	BB	Corp.	0	0	0	0	0	0	71
+MULTA-ASN1																																																																															72	0	0	0	0	0	0
+Eir	Broadband																																																																												0	72	0	0	0	0	0
+ASN-CXA-ALL-CCI-22773-RDC																																																											0	0	72	0	0	0	0
+RIOT-NA1																																																																																									0	0	0	72	0	0	0
+UVIC-AS																																													0	0	0	0	72	0	0
+216.108.185.0																																									0	0	0	0	0	72	0
+Telefonica	De	Espana	0	0	0	0	0	0	72
+SunValley	New	Oriental																																																																			73	0	0	0	0	0	0
+ACRONIS-199																																																																														0	73	0	0	0	0	0
+MTS-ASN																																																																													0	0	73	0	0	0	0
+Guangdong	Mobile	Communication	Co.Ltd.																																																											0	0	0	73	0	0	0
+TWC-20001-PACWEST																																			0	0	0	0	73	0	0
+China	Mobile	communications	corporation															0	0	0	0	0	73	0
+Suniway	Group	of	Companies	Inc.	0	0	0	0	0	0	73
+Bharti	Airtel	Ltd.	AS	for	GPRS	Service																																																			74	83	0	0	0	0	0
+China	Unicom	Beijing	Province	Network																																																				94	74	0	0	0	0	0
+Telstra	Corporation	Ltd																																																													0	0	74	0	0	0	0
+TEKSAVVY																																																																																									0	0	0	74	0	0	0
+Joint	Stock	Company	TransTeleCom																				0	0	0	0	74	0	0
+Ooredoo	Q.S.C.																																								0	0	0	0	0	74	0
+EASTLINK-HSI	0	0	0	0	0	0	74
+10.90.64.0																																																																															75	99	0	0	0	0	0
+TEKSAVVY																																																																																	76	75	0	0	0	0	0
+LEASEWEB-USA-LAX-11																																																																	0	0	75	0	0	0	0
+TWC-20001-PACWEST																																																																																0	0	0	75	0	0	0
+Iran	Telecommunication	Company	PJS																		0	0	0	0	75	0	0
+Orange																																																0	0	0	0	0	75	0
+KPN	B.V.	0	0	0	0	0	0	75
+Free	SAS																																																																																	80	76	0	0	0	0	0
+"Bharti	Airtel	Ltd.	Telemedia	Services"																																												0	0	76	0	0	0	0
+MEMORIALU																																																																																								0	0	0	76	0	0	0
+ASN-CXA-ALL-CCI-22773-RDC																											0	0	0	0	76	0	0
+T-MOBILE-AS21928																																						0	0	0	0	0	76	0
+China	Unicom	Beijing	Province	Network	0	0	0	0	0	0	76
+Orange																																																																																			77	86	0	0	0	0	0
+GWMC-AS2																																																																												0	0	77	0	0	0	0
+AS40676																																																																																										0	0	0	77	0	0	0
+Telecom	Italia																																						0	0	0	0	77	0	0
+CHSPSC-29766																																										0	0	0	0	0	77	0
+VIDEOTRON	0	0	0	0	0	0	77
+MCSNET																																																																																			78	0	0	0	0	0	0
+UTORONTO-AS																																																																									0	0	78	0	0	0	0
+ZSCALER-SJC1																																																																																					0	0	0	78	0	0	0
+SSASN2																																														0	0	0	0	78	0	0
+Bharti	Airtel	Ltd.	AS	for	GPRS	Service																0	0	0	0	0	78	0
+EDPNET	NV	0	0	0	0	0	0	78
+Korea	Telecom																																																																												79	0	0	0	0	0	0
+UK-2	Limited																																																																													0	79	0	0	0	0	0
+CLOUDWIFI																																																																											0	0	79	0	0	0	0
+kbro	CO.	Ltd.																																																																																				0	0	0	79	0	0	0
+British	Telecommunications	PLC																						0	0	0	0	79	0	0
+10.90.64.0																																												0	0	0	0	0	79	0
+CHSPSC-29766	0	0	0	0	0	0	79
+REDHAT-0																																																																																	0	80	0	0	0	0	0
+Packet	Exchange	Limited																																																													0	0	80	0	0	0	0
+GTAA																																																																																													0	0	0	80	0	0	0
+SFU-AS																																														0	0	0	0	80	0	0
+Vodafone	GmbH																																									0	0	0	0	0	80	0
+OJSC	Kyrgyztelecom	0	0	0	0	0	0	80
+Hebei	Mobile	Communication	Company	Limited																																															81	0	0	0	0	0	0
+GWMC-AS2																																																																																	0	81	0	0	0	0	0
+British	Telecommunications	PLC																																																						0	0	81	0	0	0	0
+1&1	Versatel	Deutschland	GmbH																																																																				0	0	0	81	0	0	0
+T-MOBILE-AS21928																																				0	0	0	0	81	0	0
+Xs4all	Internet	BV																																				0	0	0	0	0	81	0
+Liberty	Global	B.V.	0	0	0	0	0	0	81
+SUPERCLOUDS	LIMITED																																																																						0	82	0	0	0	0	0
+AS40676																																																																													0	0	82	0	0	0	0
+SOFTLAYER																																																																																								0	0	0	82	0	0	0
+Free	SAS																																												0	0	0	0	82	0	0
+Extreme	Broadband	-	Total	Broadband	Experience								0	0	0	0	0	82	0
+WOW	0	0	0	0	0	0	82
+Vodafone	Limited																																																																				0	0	83	0	0	0	0
+"NTT	DOCOMO	INC."																																																																															0	0	0	83	0	0	0
+China	Telecom	(Group)																															0	0	0	0	83	0	0
+SSIMICRO																																														0	0	0	0	0	83	0
+TWC-11427-TEXAS	0	0	0	0	0	0	83
+Saudi	Telecom	Company	JSC																																																																84	0	0	0	0	0	0
+EASTLINK-HSI																																																																								0	0	84	0	0	0	0
+Vodafone	Libertel	B.V.																																																																											0	0	0	84	0	0	0
+Bharti	Airtel	Ltd.	AS	for	GPRS	Service														0	0	0	0	84	0	0
+Telecom	Argentina	S.A.																																0	0	0	0	0	84	0
+Telstra	Corporation	Ltd	0	0	0	0	0	0	84
+ASN-CXA-ALL-CCI-22773-RDC																																																																85	98	0	0	0	0	0
+VIDEOTRON																																																																																0	85	0	0	0	0	0
+StackPath	LLC																																																																							0	0	85	0	0	0	0
+Softbank	BB	Corp.																																																																																0	0	0	85	0	0	0
+EASTLINK-HSI																																								0	0	0	0	85	0	0
+UWATERLOO																																													0	0	0	0	0	85	0
+SASKTEL	0	0	0	0	0	0	85
+Online	S.a.s.																																																																												86	87	0	0	0	0	0
+G-Core	Labs	S.A.																																																																				0	0	86	0	0	0	0
+YANDEX	LLC																																																																																							0	0	0	86	0	0	0
+CDAGOVN																																													0	0	0	0	86	0	0
+Korea	Telecom																																									0	0	0	0	0	86	0
+Free	SAS	0	0	0	0	0	0	86
+StackPath	LLC																																																																												87	0	0	0	0	0	0
+kbro	CO.	Ltd.																																																																							0	0	87	0	0	0	0
+China	Education	and	Research	Network	Center																																																						0	0	0	87	0	0	0
+CHSPSC-29766																																								0	0	0	0	87	0	0
+ACRONIS-199																																											0	0	0	0	0	87	0
+Altibox	AS	0	0	0	0	0	0	87
+GTAA																																																																																					0	88	0	0	0	0	0
+NORTHWESTEL-INC																																																																					0	0	88	0	0	0	0
+Nayatel	(Pvt)	Ltd																																																																																0	0	0	88	0	0	0
+Softbank	BB	Corp.																																			0	0	0	0	88	0	0
+The	Corporation	for	Financing	&	Promoting	Technology		0	0	0	0	0	88	0
+CIPHERKEY	0	0	0	0	0	0	88
+UTORONTO-AS																																																																														89	0	0	0	0	0	0
+MTS-ASN																																																																																		0	89	0	0	0	0	0
+WOW																																																																																	0	0	89	0	0	0	0
+NTT	Communications	Corporation																																																																			0	0	0	89	0	0	0
+LeaseWeb	Netherlands	B.V.																											0	0	0	0	89	0	0
+PVimpelCom																																												0	0	0	0	0	89	0
+TWC-10796-MIDWEST	0	0	0	0	0	0	89
+PAVLOVMEDIA																																																																														90	0	0	0	0	0	0
+TELE2																																																																																				0	90	0	0	0	0	0
+Orange																																																																														0	0	90	0	0	0	0
+NMAX																																																																																													0	0	0	90	0	0	0
+Telefonica	De	Espana																																0	0	0	0	90	0	0
+M247	Ltd																																														0	0	0	0	0	90	0
+216.108.185.0	0	0	0	0	0	0	90
+NORTHWESTEL-INC																																																																										91	0	0	0	0	0	0
+NLM-GW																																																																														0	0	91	0	0	0	0
+Cesena	Net	S.r.l.																																																																																0	0	0	91	0	0	0
+RIOT-NA1																																												0	0	0	0	91	0	0
+"Bharti	Airtel	Ltd.	Telemedia	Services"														0	0	0	0	0	91	0
+KDDI	CORPORATION	0	0	0	0	0	0	91
+G-Core	Labs	S.A.																																																																									92	0	0	0	0	0	0
+Siportal	Srl																																																																													0	92	0	0	0	0	0
+Iran	Telecommunication	Company	PJS																																																		0	0	92	0	0	0	0
+StackPath	LLC																																																																																				0	0	0	92	0	0	0
+CIKTELECOM-CABLE																																				0	0	0	0	92	0	0
+Uninet	S.A.	de	C.V.																																			0	0	0	0	0	92	0
+Wind	Tre	S.p.A.	0	0	0	0	0	0	92
+WOW																																																																																						93	97	0	0	0	0	0
+Datacamp	Limited																																																																									96	93	0	0	0	0	0
+PRIMUS-AS6407																																																																							0	0	93	0	0	0	0
+UK-2	Limited																																																																																					0	0	0	93	0	0	0
+UUNET																																															0	0	0	0	93	0	0
+Nevalink	LTD																																										0	0	0	0	0	93	0
+UWATERLOO	0	0	0	0	0	0	93
+TWC-10796-MIDWEST																																																																								0	94	0	0	0	0	0
+SFR	SA																																																																														0	0	94	0	0	0	0
+VALVE-CORPORATION																																																																																0	0	0	94	0	0	0
+RCN-AS																																														0	0	0	0	94	0	0
+Saudi	Telecom	Company	JSC																													0	0	0	0	0	94	0
+Mobile	Communication	Company	of	Iran	PLC	0	0	0	0	0	0	94
+Telstra	Corporation	Ltd																																																																		95	100	0	0	0	0	0
+Rostelecom																																																																															0	95	0	0	0	0	0
+Turk	Telekom																																																																								0	0	95	0	0	0	0
+MTN	NIGERIA	Communication	limited																																																																0	0	0	95	0	0	0
+CELLCO-PART																																									0	0	0	0	95	0	0
+Pakistan	Telecommunication	Company	Limited												0	0	0	0	0	95	0
+TWC-11351-NORTHEAST	0	0	0	0	0	0	95
+Entanet																																																																																		0	96	0	0	0	0	0
+Iran	Cell	Service	and	Communication	Company																																									0	0	96	0	0	0	0
+DXTL	Tseung	Kwan	O	Service																																																																							0	0	0	96	0	0	0
+NMAX																																																0	0	0	0	96	0	0
+151.238.212.0																																									0	0	0	0	0	96	0
+PRIMUS-AS6407	0	0	0	0	0	0	96
+Israel	InterUniversity	Computation	Center																																																97	0	0	0	0	0	0
+VIDEOTRON																																																																											0	0	97	0	0	0	0
+Telefonica	De	Espana																																																																													0	0	0	97	0	0	0
+AS-NATCOM																																											0	0	0	0	97	0	0
+Asiatech	Data	Transmission	company																				0	0	0	0	0	97	0
+COGECOWAVE	0	0	0	0	0	0	97
+"Incomparable(HK)Network	Co.	Limited"																																																			98	0	0	0	0	0	0
+CODE42																																																																														0	0	98	0	0	0	0
+TWC-10796-MIDWEST																																																																																0	0	0	98	0	0	0
+M247	Ltd																																												0	0	0	0	98	0	0
+AS40676																																															0	0	0	0	0	98	0
+SHENZHEN	0	0	0	0	0	0	98
+team.blue	Denmark	A/S																																																																				99	0	0	0	0	0	0
+CHARTER-20115																																																																							0	0	99	0	0	0	0
+Sky	UK	Limited																																																																																			0	0	0	99	0	0	0
+Joint	Stock	Company	MTU	Kristall																				0	0	0	0	99	0	0
+i3D.net	B.V																																											0	0	0	0	0	99	0
+Plot	No	181-186	Street	0	0	0	0	0	0	99
+Telstra	Global																																																																											100	0	0	0	0	0	0
+Atria	Convergence	Technologies	Pvt.	Ltd.	Broadband	Internet	Service	Provider	INDIA		0	0	100	0	0	0	0
+TalkTalk																																																																																									0	0	0	100	0	0	0
+216.108.180.0																																							0	0	0	0	100	0	0
+SASKTEL																																															0	0	0	0	0	100	0
+NORTHWESTEL-INC	0	0	0	0	0	0	100

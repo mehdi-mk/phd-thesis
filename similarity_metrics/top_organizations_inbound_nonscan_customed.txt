@@ -1,0 +1,101 @@
+2019-12-09	2019-12-10	2019-12-11	2019-12-12	2019-12-13	2019-12-14	2019-12-15
+ SHAW 	 SHAW 	 TELUS 	 SHAW 	 SHAW 	 SHAW 	 SHAW 
+ TELUS 	 TELUS 	 SHAW 	 TELUS 	 UCB 	 UCB 	 TELUS 
+ LIQUIDWEB 	 UCB 	 UCB 	 UCB 	 TELUS 	 TELUS 	 UCB 
+ Hetzner Online GmbH 	 USASK 	 COGENT-174 	 AHS 	 LIQUIDWEB 	 GOOGLE 	 LIQUIDWEB 
+ MICROSOFT 	 Chinanet 	 LIQUIDWEB 	 AMAZON 	 GOOGLE 	 OVH SAS 	 PERFORMIVE 
+ UCB 	 MICROSOFT 	 MICROSOFT 	 MICROSOFT 	 MICROSOFT 	 MICROSOFT 	 MICROSOFT 
+ Chinanet 	 PERFORMIVE 	 Africa-on-Cloud-AS 	 GOOGLE 	 OVH SAS 	 Globe Telecoms 	 NVIDIA 
+ GOOGLE 	 CHINA UNICOM China169 Backbone 	 OVH SAS 	 Chinanet 	 COMCAST-7922 	 BACOM 	 GOOGLE 
+ CHINA UNICOM China169 Backbone 	 GOOGLE 	 ROGERS 	 OVH SAS 	 AMAZON 	 CHINA UNICOM China169 Backbone 	 OVH SAS 
+ AMAZON 	 OVH SAS 	 COMCAST-7922 	 Jisc Services Limited 	 BACOM 	 ROGERS 	 COMCAST-7922 
+ BACOM 	 AMAZON 	 GOOGLE 	 COMCAST-7922 	 ROGERS 	 Taiwan Academic Network (TANet) Information Center 	 Chinanet 
+ COMCAST-7922 	 APPLE 	 BACOM 	 ROGERS 	 Chinanet 	 Suniway Group of Companies Inc. 	 ROGERS 
+ ROGERS 	 OKSTATE 	 AMAZON 	 BACOM 	 HURRICANE 	 COMCAST-7922 	 SFU-AS 
+ OVH SAS 	 COMCAST-7922 	 AHS 	 SunValley New Oriental 	 Jisc Services Limited 	 AMAZON 	 CHINA UNICOM China169 Backbone 
+ 24SHELLS 	 AHS 	 HUAWEI CLOUDS 	 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE. 	 UDELNET 	 Chinanet 	 i3D.net B.V 
+ PERFORMIVE 	 45.195.93.0 	 HURRICANE 	 PERFORMIVE 	 Rostelecom 	 Telgua 	 ATT-INTERNET4 
+ UUNET 	 ROGERS 	 45.195.93.0 	 BHN-33363 	 AHS 	 Hetzner Online GmbH 	 BACOM 
+ COLORADOSTATEUNIV 	 BACOM 	 PERFORMIVE 	 FACEBOOK 	 PERFORMIVE 	 UUNET 	 AMAZON 
+ Jisc Services Limited 	 Virgin Media Limited 	 Chinanet 	 HURRICANE 	 COGENT-174 	 CODE42 	 UUNET 
+ FACEBOOK 	 SSC-299-25689 	 M247 Ltd 	 Datacamp Limited 	 Datacamp Limited 	 10.90.65.0 	 APPLE 
+ APPLE 	 NTT Communications Corporation 	 LESNET 	 M247 Ltd 	 Hetzner Online GmbH 	 FACEBOOK 	 58.82.250.0 
+ AHS 	 China Telecom (Group) 	 CHINA UNICOM China169 Backbone 	 SASKTEL 	 HUAWEI CLOUDS 	 DIGITALOCEAN-ASN 	 Xs4all Internet BV 
+ Hydra Communications Ltd 	 CANET-ASN-4 	 UVIC-AS 	 CANET-ASN-4 	 FACEBOOK 	 ATT-INTERNET4 	 TWITCH 
+ Virgin Media Limited 	 FACEBOOK 	 APPLE 	 Extreme Broadband - Total Broadband Experience 	 SOFTLAYER 	 PERFORMIVE 	 Hetzner Online GmbH 
+ "Tencent Building, Kejizhongyi Avenue" 	 M247 Ltd 	 CANET-ASN-4 	 EMERSON 	 China Unicom Beijing Province Network 	 APPLE 	 Vodafone GmbH 
+ Taiwan Academic Network (TANet) Information Center 	 CWIE 	 LeaseWeb Netherlands B.V. 	 "Tencent Building, Kejizhongyi Avenue" 	 Extreme Broadband - Total Broadband Experience 	 DataWeb Global Group B.V. 	 Voxility LLP 
+ Interhost Communication Solutions Ltd. 	 DIGITALOCEAN-ASN 	 UWO-AS 	 Interhost Communication Solutions Ltd. 	 APPLE 	 Excitel Broadband Private Limited 	 DataWeb Global Group B.V. 
+ ST-BGP 	 AS-WHATBOX 	 Virgin Media Limited 	 Hetzner Online GmbH 	 TWIDC Limited 	 GTT Communications Inc. 	 ASN-GIGENET 
+ Deutsche Telekom AG 	 marbis GmbH 	 KDDI CORPORATION 	 CHINA UNICOM China169 Backbone 	 Telstra Corporation Ltd 	 LEASEWEB-USA-LAX-11 	 FACEBOOK 
+ Ooredoo Q.S.C. 	 Hetzner Online GmbH 	 FACEBOOK 	 DataWeb Global Group B.V. 	 ATT-INTERNET4 	 MTS-ASN 	 MTS-ASN 
+ Excitel Broadband Private Limited 	 10.90.65.0 	 Hetzner Online GmbH 	 10.90.65.0 	 DataWeb Global Group B.V. 	 CANET-ASN-4 	 TEKSAVVY 
+ AS40676 	 Deutsche Telekom AG 	 10.90.65.0 	 EONIX-COMMUNICATIONS-ASBLOCK-62904 	 2COM Co Ltd. 	 NORTHWESTEL-INC 	 "Tencent Building, Kejizhongyi Avenue" 
+ VALVE-CORPORATION 	 UUNET 	 Datacamp Limited 	 G-Core Labs S.A. 	 Taiwan Academic Network (TANet) Information Center 	 Telefonica De Espana 	 LVLT-3549 
+ 10.90.65.0 	 DataWeb Global Group B.V. 	 China Education and Research Network Center 	 Telgua 	 PNAP-SE3 	 "Tencent Building, Kejizhongyi Avenue" 	 BHN-33363 
+ DataWeb Global Group B.V. 	 Agentia de Administrare a Retelei Nationale de Informatica pentru Educatie si Cercetare 	 i3D.net B.V 	 APPLE 	 10.90.65.0 	 LVLT-3549 	 NMAX 
+ Guangdong 	 ATT-INTERNET4 	 DataWeb Global Group B.V. 	 DIGITALOCEAN-ASN 	 1&1 Versatel Deutschland GmbH 	 Free SAS 	 BARR-XPLR-ASN 
+ BHN-33363 	 Taiwan Academic Network (TANet) Information Center 	 RISQ-AS 	 LEASEWEB-USA-LAX-11 	 i3D.net B.V 	 Rostelecom 	 52.84.246.0 
+ Uninet S.A. de C.V. 	 i3D.net B.V 	 NWTEL 	 NVIDIA 	 CHINA UNICOM China169 Backbone 	 Packet Exchange Limited 	 Reliance Jio Infocomm Limited 
+ 1&1 Versatel Deutschland GmbH 	 CHARTER-20115 	 DIGITALOCEAN-ASN 	 MTS-ASN 	 Interhost Communication Solutions Ltd. 	 BHN-33363 	 ASN-CXA-ALL-CCI-22773-RDC 
+ Data Communication Business Group 	 China Education and Research Network Center 	 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. 	 China Unicom Beijing Province Network 	 ANGKOR DATA COMMUNICATION 	 Viettel Group 	 AS40676 
+ ATT-INTERNET4 	 LEASEWEB-USA-LAX-11 	 BARR-XPLR-ASN 	 Reliance Jio Infocomm Limited 	 Reliance Jio Infocomm Limited 	 Virgin Media Limited 	 British Telecommunications PLC 
+ NWTEL 	 BARR-XPLR-ASN 	 NVIDIA 	 CHARTER-20115 	 Globe Telecoms 	 "Teleguam Holdings, LLC" 	 SOFTLAYER 
+ NVIDIA 	 VELOCITYNET-01 	 My Telecom Group Company Limited 	 "WENZHOU, ZHEJIANG Province, P.R.China." 	 "Tencent Building, Kejizhongyi Avenue" 	 NMAX 	 10.90.65.0 
+ Agentia de Administrare a Retelei Nationale de Informatica pentru Educatie si Cercetare 	 SW-ORG-AS 	 Deutsche Telekom AG 	 Virgin Media Limited 	 BARR-XPLR-ASN 	 Reliance Jio Infocomm Limited 	 HURRICANE 
+ LVLT-3549 	 HUAWEI CLOUDS 	 LVLT-3549 	 BARR-XPLR-ASN 	 "BEE UNION (CAMBODIA) TELECOM CO., LTD" 	 SSASN2 	 DIGITALOCEAN-ASN 
+ LEASEWEB-USA-LAX-11 	 Data Communication Business Group 	 Jisc Services Limited 	 LeaseWeb Netherlands B.V. 	 PRIMUS-AS6407 	 SOFTLAYER 	 Korea Telecom 
+ Orange Polska Spolka Akcyjna 	 NWTEL 	 SOFTLAYER 	 LVLT-3549 	 TEKSAVVY 	 U-ALBERTA 	 China Education and Research Network Center 
+ i3D.net B.V 	 SOFTLAYER 	 185.153.179.0 	 U-ALBERTA 	 team.blue Denmark A/S 	 216.108.180.0 	 Virgin Media Limited 
+ Sky UK Limited 	 AS40676 	 "Tencent Building, Kejizhongyi Avenue" 	 ASN-CXA-ALL-CCI-22773-RDC 	 MERIT-AS-14 	 Datacamp Limited 	 Philippine Long Distance Telephone Company 
+ China Education and Research Network Center 	 YANDEX LLC 	 Reliance Jio Infocomm Limited 	 KPN B.V. 	 LVLT-3549 	 ASN-CXA-ALL-CCI-22773-RDC 	 NTT Communications Corporation 
+ UWATERLOO 	 LVLT-3549 	 Tele Danmark 	 i3D.net B.V 	 SASKTEL 	 China Unicom Beijing Province Network 	 LEASEWEB-USA-SEA-10 
+ China Mobile communications corporation 	 LESNET 	 CIPHERKEY 	 UWATERLOO 	 DIGITALOCEAN-ASN 	 TEKSAVVY 	 CIKTELECOM-CABLE 
+ ESECUREDATA 	 BHN-33363 	 YANDEX LLC 	 NOVUS-3 	 CANET-ASN-4 	 BARR-XPLR-ASN 	 CANET-ASN-4 
+ Reliance Jio Infocomm Limited 	 Internet Initiative Japan Inc. 	 UUNET 	 UUNET 	 CHARTER-20115 	 VIDEOTRON 	 CHINANET 
+ Vocus Retail 	 "Tencent Building, Kejizhongyi Avenue" 	 FRONTIER-FRTR 	 Ooredoo Q.S.C. 	 MYREPUBLIC PTY LTD 	 Compania Dominicana de Telefonos S. A. 	 Packet Exchange Limited 
+ China Telecom (Group) 	 Reliance Jio Infocomm Limited 	 SASKTEL 	 216.108.180.0 	 MTS-ASN 	 YANDEX LLC 	 Active Cloud 
+ COGECOWAVE 	 PNAP-SE3 	 Interhost Communication Solutions Ltd. 	 "Bharti Airtel Ltd., Telemedia Services" 	 Mobile Communication Company of Iran PLC 	 LeaseWeb Netherlands B.V. 	 AMANAHA-NEW 
+ YANDEX LLC 	 Telecom Argentina S.A. 	 ATT-INTERNET4 	 Bharti Airtel Ltd. AS for GPRS Service 	 Guangdong Mobile Communication Co.Ltd. 	 HURRICANE 	 HUAWEI CLOUDS 
+ TWC-20001-PACWEST 	 Ooredoo Q.S.C. 	 Ooredoo Q.S.C. 	 CIKTELECOM-CABLE 	 AS40676 	 CIPHERKEY 	 NTT-COMMUNICATIONS-2914 
+ BARR-XPLR-ASN 	 SASKTEL 	 U-ALBERTA 	 ATT-INTERNET4 	 NORTHWESTEL-INC 	 UWO-AS 	 CHARTER-20115 
+ DIGITALOCEAN-ASN 	 TWC-11351-NORTHEAST 	 TPG Telecom Limited 	 Iran Telecommunication Company PJS 	 China Education and Research Network Center 	 JSC ER-Telecom Holding 	 TWC-20001-PACWEST 
+ SOFTLAYER 	 Jisc Services Limited 	 BHN-33363 	 Free SAS 	 USASK 	 TWC-20001-PACWEST 	 Bharti Airtel Ltd. AS for GPRS Service 
+ TELEFONICA BRASIL S.A 	 CIPHERKEY 	 China Telecom (Group) 	 "TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah A" 	 BHN-33363 	 CHARTER-20115 	 Iran Telecommunication Company PJS 
+ GTT Communications Inc. 	 Quadrant Televentures Limited 	 TEKSAVVY 	 Uninet S.A. de C.V. 	 Telgua 	 Quickline AG 	 AHS 
+ RIOT-NA1 	 JSIWMC 	 Free SAS 	 CHINANET 	 Virgin Media Limited 	 AHS 	 YANDEX LLC 
+ China Unicom Shanghai network 	 British Telecommunications PLC 	 China Unicom Beijing Province Network 	 Korea Telecom 	 Siportal Srl 	 Siportal Srl 	 Extreme Broadband - Total Broadband Experience 
+ CHINANET 	 SAFARICOM-LIMITED 	 Bharti Airtel Ltd. AS for GPRS Service 	 CHSPSC-29766 	 CIPHERKEY 	 Guangdong Mobile Communication Co.Ltd. 	 Online S.a.s. 
+ M247 Ltd 	 "Bharti Airtel Ltd., Telemedia Services" 	 CHINANET 	 China Telecom (Group) 	 Excitel Broadband Private Limited 	 Online S.a.s. 	 GTT Communications Inc. 
+ Mobile Communication Company of Iran PLC 	 UVIC-AS 	 TWC-20001-PACWEST 	 TWITCH 	 UTORONTO-AS 	 SFR SA 	 Ooredoo Q.S.C. 
+ Iran Telecommunication Company PJS 	 185.153.179.0 	 OrbitalNet Ltd 	 Fastweb 	 Yamagata University 	 ACCESS-SK 	 ACRONIS-199 
+ TalkTalk 	 CHINANET 	 GTAA 	 WOW 	 "WENZHOU, ZHEJIANG Province, P.R.China." 	 CIKTELECOM-CABLE 	 Softbank BB Corp. 
+ MULTA-ASN1 	 Eir Broadband 	 ASN-CXA-ALL-CCI-22773-RDC 	 RIOT-NA1 	 UVIC-AS 	 216.108.185.0 	 Telefonica De Espana 
+ SunValley New Oriental 	 ACRONIS-199 	 MTS-ASN 	 Guangdong Mobile Communication Co.Ltd. 	 TWC-20001-PACWEST 	 China Mobile communications corporation 	 Suniway Group of Companies Inc. 
+ Bharti Airtel Ltd. AS for GPRS Service 	 China Unicom Beijing Province Network 	 Telstra Corporation Ltd 	 TEKSAVVY 	 Joint Stock Company TransTeleCom 	 Ooredoo Q.S.C. 	 EASTLINK-HSI 
+ 10.90.64.0 	 TEKSAVVY 	 LEASEWEB-USA-LAX-11 	 TWC-20001-PACWEST 	 Iran Telecommunication Company PJS 	 Orange 	 KPN B.V. 
+ TEKSAVVY 	 Free SAS 	 "Bharti Airtel Ltd., Telemedia Services" 	 MEMORIALU 	 ASN-CXA-ALL-CCI-22773-RDC 	 T-MOBILE-AS21928 	 China Unicom Beijing Province Network 
+ Orange 	 TWC-20001-PACWEST 	 GWMC-AS2 	 AS40676 	 Telecom Italia 	 CHSPSC-29766 	 VIDEOTRON 
+ MCSNET 	 Iran Telecommunication Company PJS 	 UTORONTO-AS 	 ZSCALER-SJC1 	 SSASN2 	 Bharti Airtel Ltd. AS for GPRS Service 	 EDPNET NV 
+ Korea Telecom 	 UK-2 Limited 	 CLOUDWIFI 	 kbro CO. Ltd. 	 British Telecommunications PLC 	 10.90.64.0 	 CHSPSC-29766 
+ Free SAS 	 REDHAT-0 	 Packet Exchange Limited 	 GTAA 	 SFU-AS 	 Vodafone GmbH 	 OJSC Kyrgyztelecom 
+ Hebei Mobile Communication Company Limited 	 GWMC-AS2 	 British Telecommunications PLC 	 1&1 Versatel Deutschland GmbH 	 T-MOBILE-AS21928 	 Xs4all Internet BV 	 Liberty Global B.V. 
+ CHARTER-20115 	 SUPERCLOUDS LIMITED 	 AS40676 	 SOFTLAYER 	 Free SAS 	 Extreme Broadband - Total Broadband Experience 	 WOW 
+ SW-ORG-AS 	 Bharti Airtel Ltd. AS for GPRS Service 	 Vodafone Limited 	 "NTT DOCOMO, INC." 	 China Telecom (Group) 	 SSIMICRO 	 TWC-11427-TEXAS 
+ Saudi Telecom Company JSC 	 VALVE-CORPORATION 	 EASTLINK-HSI 	 Vodafone Libertel B.V. 	 Bharti Airtel Ltd. AS for GPRS Service 	 Telecom Argentina S.A. 	 Telstra Corporation Ltd 
+ ASN-CXA-ALL-CCI-22773-RDC 	 VIDEOTRON 	 StackPath LLC 	 Softbank BB Corp. 	 EASTLINK-HSI 	 UWATERLOO 	 SASKTEL 
+ Online S.a.s. 	 Orange 	 G-Core Labs S.A. 	 YANDEX LLC 	 CDAGOVN 	 Korea Telecom 	 Free SAS 
+ StackPath LLC 	 Online S.a.s. 	 kbro CO. Ltd. 	 China Education and Research Network Center 	 CHSPSC-29766 	 ACRONIS-199 	 Altibox AS 
+ "Bharti Airtel Ltd., Telemedia Services" 	 GTAA 	 NORTHWESTEL-INC 	 Nayatel (Pvt) Ltd 	 Softbank BB Corp. 	 The Corporation for Financing & Promoting Technology 	 CIPHERKEY 
+ UTORONTO-AS 	 MTS-ASN 	 WOW 	 NTT Communications Corporation 	 LeaseWeb Netherlands B.V. 	 PVimpelCom 	 TWC-10796-MIDWEST 
+ PAVLOVMEDIA 	 TELE2 	 Orange 	 NMAX 	 Telefonica De Espana 	 M247 Ltd 	 216.108.185.0 
+ NORTHWESTEL-INC 	 Uninet S.A. de C.V. 	 NLM-GW 	 Cesena Net S.r.l. 	 RIOT-NA1 	 "Bharti Airtel Ltd., Telemedia Services" 	 KDDI CORPORATION 
+ G-Core Labs S.A. 	 Siportal Srl 	 Iran Telecommunication Company PJS 	 StackPath LLC 	 CIKTELECOM-CABLE 	 Uninet S.A. de C.V. 	 Wind Tre S.p.A. 
+ WOW 	 Datacamp Limited 	 PRIMUS-AS6407 	 UK-2 Limited 	 UUNET 	 Nevalink LTD 	 UWATERLOO 
+ China Unicom Beijing Province Network 	 TWC-10796-MIDWEST 	 SFR SA 	 VALVE-CORPORATION 	 RCN-AS 	 Saudi Telecom Company JSC 	 Mobile Communication Company of Iran PLC 
+ Telstra Corporation Ltd 	 Rostelecom 	 Turk Telekom 	 MTN NIGERIA Communication limited 	 CELLCO-PART 	 Pakistan Telecommunication Company Limited 	 TWC-11351-NORTHEAST 
+ Datacamp Limited 	 Entanet 	 Iran Cell Service and Communication Company 	 DXTL Tseung Kwan O Service 	 NMAX 	 151.238.212.0 	 PRIMUS-AS6407 
+ Israel InterUniversity Computation Center 	 WOW 	 VIDEOTRON 	 Telefonica De Espana 	 AS-NATCOM 	 Asiatech Data Transmission company 	 COGECOWAVE 
+ "Incomparable(HK)Network Co., Limited" 	 ASN-CXA-ALL-CCI-22773-RDC 	 CODE42 	 TWC-10796-MIDWEST 	 M247 Ltd 	 AS40676 	 SHENZHEN 
+ team.blue Denmark A/S 	 10.90.64.0 	 CHARTER-20115 	 Sky UK Limited 	 Joint Stock Company MTU Kristall 	 i3D.net B.V 	 Plot No 181-186 Street 
+ Telstra Global 	 Telstra Corporation Ltd 	 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA 	 TalkTalk 	 216.108.180.0 	 SASKTEL 	 NORTHWESTEL-INC 
